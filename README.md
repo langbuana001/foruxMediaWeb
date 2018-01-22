@@ -16,7 +16,7 @@ We are not just a media company, we are also a tech company who strive to make y
 
 Our goal is to present you the news worth knowing in a day, and highlight the facts that are important to you as a common reader. We want to create the single greatest resource available for people to keep themselves up-to-date with the issues that are in the news.
 
-![alt text](https://ibb.co/gMwiYb)
+![alt text](documentation/download.png)
 
 We want to help you know which issues are worth attention, and put the key facts for you so you can start and end your day, informed. Rather than letting you scroll around a bulky news portal, or flipping through a complex newspaper, we want to serve you the key terms and phrases that make up the whole story.
 
